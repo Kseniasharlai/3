@@ -1,0 +1,17 @@
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDispatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDispatcher.AssemblyInfoInputs.cache
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDispatcher.AssemblyInfo.cs
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDispatcher.csproj.AssemblyReference.cache
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\bin\Debug\net8.0-windows\JsonDispatcher.exe
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\bin\Debug\net8.0-windows\JsonDispatcher.deps.json
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\bin\Debug\net8.0-windows\JsonDispatcher.runtimeconfig.json
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\bin\Debug\net8.0-windows\JsonDispatcher.dll
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\bin\Debug\net8.0-windows\JsonDispatcher.pdb
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDisp.31602F94.Up2Date
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDispatcher.dll
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\refint\JsonDispatcher.dll
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDispatcher.pdb
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\JsonDispatcher.genruntimeconfig.cache
+C:\Users\amaly\OneDrive\Робочий стіл\Lab_3\WinFormsApp2\JsonDispatcher\obj\Debug\net8.0-windows\ref\JsonDispatcher.dll
